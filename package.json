@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "jstoxml": "^0.2.4",
+    "node-mb-string-size": "^1.0.3",
+    "oracledb": "^1.13.1",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
